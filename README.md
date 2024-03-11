@@ -15,4 +15,8 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It allo
 - JavaScript
 
 
+## Support
+
+If you encounter any issues or have any questions, please feel free to contact us at diksharaut2511@gmail.com
+
 
